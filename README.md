@@ -1,7 +1,7 @@
 # Android & IOS Sample
 
 Android
- - Comming Soon ...
+ - Custom Behaivor Sample
 
 IOS
  - Swift Delegate Sample
