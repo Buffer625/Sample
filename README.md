@@ -11,7 +11,7 @@ IOS
  
 Server Spring Tutorial
  - Book01 : Basic Project
- - Book02 : h2 setting , Dao , testCode
+ - Book02 : h2 setting , Hibernate Entity , JpaDao , Junit testCode
  - Book03 : @Service , @Transactional
  - Book04 : QueryDsl
  - Book05 : @Controller
