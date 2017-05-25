@@ -2,6 +2,7 @@
 
 Android
  - Custom Behaivor Sample
+ - Kotlin RecyclerView Sample
 
 IOS
  - Swift Delegate Sample
